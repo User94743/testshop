@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/testshop/static/css/main.b623ce3c.chunk.css",
-    "main.js": "/testshop/static/js/main.e06f063c.chunk.js",
-    "main.js.map": "/testshop/static/js/main.e06f063c.chunk.js.map",
-    "runtime-main.js": "/testshop/static/js/runtime-main.8c08e64b.js",
-    "runtime-main.js.map": "/testshop/static/js/runtime-main.8c08e64b.js.map",
-    "static/css/2.4abe32a5.chunk.css": "/testshop/static/css/2.4abe32a5.chunk.css",
-    "static/js/2.d88a64f0.chunk.js": "/testshop/static/js/2.d88a64f0.chunk.js",
-    "static/js/2.d88a64f0.chunk.js.map": "/testshop/static/js/2.d88a64f0.chunk.js.map",
-    "static/js/3.02593727.chunk.js": "/testshop/static/js/3.02593727.chunk.js",
-    "static/js/3.02593727.chunk.js.map": "/testshop/static/js/3.02593727.chunk.js.map",
+    "main.css": "/testshop/static/css/main.55c4095e.chunk.css",
+    "main.js": "/testshop/static/js/main.386f0187.chunk.js",
+    "main.js.map": "/testshop/static/js/main.386f0187.chunk.js.map",
+    "runtime-main.js": "/testshop/static/js/runtime-main.8840cf54.js",
+    "runtime-main.js.map": "/testshop/static/js/runtime-main.8840cf54.js.map",
+    "static/css/2.fa051c40.chunk.css": "/testshop/static/css/2.fa051c40.chunk.css",
+    "static/js/2.23b672ba.chunk.js": "/testshop/static/js/2.23b672ba.chunk.js",
+    "static/js/2.23b672ba.chunk.js.map": "/testshop/static/js/2.23b672ba.chunk.js.map",
+    "static/js/3.bb35c373.chunk.js": "/testshop/static/js/3.bb35c373.chunk.js",
+    "static/js/3.bb35c373.chunk.js.map": "/testshop/static/js/3.bb35c373.chunk.js.map",
     "index.html": "/testshop/index.html",
-    "static/css/2.4abe32a5.chunk.css.map": "/testshop/static/css/2.4abe32a5.chunk.css.map",
-    "static/css/main.b623ce3c.chunk.css.map": "/testshop/static/css/main.b623ce3c.chunk.css.map",
-    "static/js/2.d88a64f0.chunk.js.LICENSE.txt": "/testshop/static/js/2.d88a64f0.chunk.js.LICENSE.txt",
+    "static/css/2.fa051c40.chunk.css.map": "/testshop/static/css/2.fa051c40.chunk.css.map",
+    "static/css/main.55c4095e.chunk.css.map": "/testshop/static/css/main.55c4095e.chunk.css.map",
+    "static/js/2.23b672ba.chunk.js.LICENSE.txt": "/testshop/static/js/2.23b672ba.chunk.js.LICENSE.txt",
     "static/media/minecraft.d173dfa7.jpg": "/testshop/static/media/minecraft.d173dfa7.jpg",
     "static/media/styles.css": "/testshop/static/media/revicons.e8746a62.woff",
     "static/media/uplay.cf8d6472.png": "/testshop/static/media/uplay.cf8d6472.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c08e64b.js",
-    "static/css/2.4abe32a5.chunk.css",
-    "static/js/2.d88a64f0.chunk.js",
-    "static/css/main.b623ce3c.chunk.css",
-    "static/js/main.e06f063c.chunk.js"
+    "static/js/runtime-main.8840cf54.js",
+    "static/css/2.fa051c40.chunk.css",
+    "static/js/2.23b672ba.chunk.js",
+    "static/css/main.55c4095e.chunk.css",
+    "static/js/main.386f0187.chunk.js"
   ]
 }
