@@ -1,33 +1,36 @@
 {
   "files": {
-    "main.css": "/testshop/static/css/main.c4dfaf41.chunk.css",
-    "main.js": "/testshop/static/js/main.25a0e1f1.chunk.js",
-    "main.js.map": "/testshop/static/js/main.25a0e1f1.chunk.js.map",
-    "runtime-main.js": "/testshop/static/js/runtime-main.ca465cc3.js",
-    "runtime-main.js.map": "/testshop/static/js/runtime-main.ca465cc3.js.map",
+    "main.css": "/testshop/static/css/main.96a1c904.chunk.css",
+    "main.js": "/testshop/static/js/main.287a9a28.chunk.js",
+    "main.js.map": "/testshop/static/js/main.287a9a28.chunk.js.map",
+    "runtime-main.js": "/testshop/static/js/runtime-main.e70317b7.js",
+    "runtime-main.js.map": "/testshop/static/js/runtime-main.e70317b7.js.map",
     "static/css/2.fa051c40.chunk.css": "/testshop/static/css/2.fa051c40.chunk.css",
-    "static/js/2.c8de7101.chunk.js": "/testshop/static/js/2.c8de7101.chunk.js",
-    "static/js/2.c8de7101.chunk.js.map": "/testshop/static/js/2.c8de7101.chunk.js.map",
-    "static/js/3.29f440b5.chunk.js": "/testshop/static/js/3.29f440b5.chunk.js",
-    "static/js/3.29f440b5.chunk.js.map": "/testshop/static/js/3.29f440b5.chunk.js.map",
+    "static/js/2.5e9d5588.chunk.js": "/testshop/static/js/2.5e9d5588.chunk.js",
+    "static/js/2.5e9d5588.chunk.js.map": "/testshop/static/js/2.5e9d5588.chunk.js.map",
+    "static/js/3.4adcdd49.chunk.js": "/testshop/static/js/3.4adcdd49.chunk.js",
+    "static/js/3.4adcdd49.chunk.js.map": "/testshop/static/js/3.4adcdd49.chunk.js.map",
     "index.html": "/testshop/index.html",
     "static/css/2.fa051c40.chunk.css.map": "/testshop/static/css/2.fa051c40.chunk.css.map",
-    "static/css/main.c4dfaf41.chunk.css.map": "/testshop/static/css/main.c4dfaf41.chunk.css.map",
-    "static/js/2.c8de7101.chunk.js.LICENSE.txt": "/testshop/static/js/2.c8de7101.chunk.js.LICENSE.txt",
+    "static/css/main.96a1c904.chunk.css.map": "/testshop/static/css/main.96a1c904.chunk.css.map",
+    "static/js/2.5e9d5588.chunk.js.LICENSE.txt": "/testshop/static/js/2.5e9d5588.chunk.js.LICENSE.txt",
     "static/media/cat.7cee644e.jpg": "/testshop/static/media/cat.7cee644e.jpg",
+    "static/media/cooperationImg.003c5366.jpg": "/testshop/static/media/cooperationImg.003c5366.jpg",
+    "static/media/email.3d893e2b.jpg": "/testshop/static/media/email.3d893e2b.jpg",
     "static/media/minecraft.d173dfa7.jpg": "/testshop/static/media/minecraft.d173dfa7.jpg",
     "static/media/styles.css": "/testshop/static/media/revicons.e8746a62.woff",
     "static/media/step1.4fb94e79.jpg": "/testshop/static/media/step1.4fb94e79.jpg",
     "static/media/step2.e255d95a.png": "/testshop/static/media/step2.e255d95a.png",
     "static/media/step3.e62fa954.png": "/testshop/static/media/step3.e62fa954.png",
     "static/media/step4.5e219662.png": "/testshop/static/media/step4.5e219662.png",
-    "static/media/uplay.cf8d6472.png": "/testshop/static/media/uplay.cf8d6472.png"
+    "static/media/uplay.cf8d6472.png": "/testshop/static/media/uplay.cf8d6472.png",
+    "static/media/vk.11d3c048.png": "/testshop/static/media/vk.11d3c048.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca465cc3.js",
+    "static/js/runtime-main.e70317b7.js",
     "static/css/2.fa051c40.chunk.css",
-    "static/js/2.c8de7101.chunk.js",
-    "static/css/main.c4dfaf41.chunk.css",
-    "static/js/main.25a0e1f1.chunk.js"
+    "static/js/2.5e9d5588.chunk.js",
+    "static/css/main.96a1c904.chunk.css",
+    "static/js/main.287a9a28.chunk.js"
   ]
 }
